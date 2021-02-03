@@ -1,0 +1,811 @@
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\appsettings.json
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.exe
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.deps.json
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ref\MvcMovie.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorCoreGenerate.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.Views.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Humanizer.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.StaticWebAssets.xml
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Build.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Commands.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Common.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Configuration.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Credentials.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.LibraryModel.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Packaging.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.ProjectModel.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Protocol.dll
+C:\Users\helmi\Documents\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Versioning.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\appsettings.Development.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\appsettings.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.StaticWebAssets.xml
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.exe
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.deps.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ref\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\MvcMovie.Views.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Humanizer.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Build.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\Newtonsoft.Json.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Commands.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Common.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Configuration.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Credentials.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Frameworks.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.LibraryModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Packaging.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.ProjectModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Protocol.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\NuGet.Versioning.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.Convention.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.Hosting.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.Runtime.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Composition.TypedParts.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Runtime.Caching.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorCoreGenerate.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Templates\About.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Templates\Blog.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Templates\Contact.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Templates\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\Templates\Recipe.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.Views.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\appsettings.Development.json
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\appsettings.json
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.StaticWebAssets.xml
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.exe
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.deps.json
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ref\MvcMovie.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.pdb
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.Views.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\MvcMovie.Views.pdb
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Humanizer.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Build.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Commands.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Common.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Configuration.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Credentials.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.LibraryModel.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Packaging.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.ProjectModel.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Protocol.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\NuGet.Versioning.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dev\TB PBO\MvcSpicyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorCoreGenerate.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\About.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Blog.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Contact.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Index.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Recipe.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cache
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cs
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.Views.pdb
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.dll
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\ref\MvcMovie.dll
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.pdb
+C:\Dev\TB PBO\MvcSpicyo\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\appsettings.Development.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\appsettings.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.StaticWebAssets.xml
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.exe
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.deps.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.runtimeconfig.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.runtimeconfig.dev.json
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ref\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.Views.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\MvcMovie.Views.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Humanizer.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Build.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Build.Framework.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.CommandLineUtils.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\Newtonsoft.Json.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.CommandLine.XPlat.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Commands.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Common.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Configuration.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Credentials.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.DependencyResolver.Core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Frameworks.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.LibraryModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Packaging.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.ProjectModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Protocol.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\NuGet.Versioning.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Composition.Convention.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Composition.Hosting.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Composition.Runtime.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Runtime.Caching.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.csprojAssemblyReference.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.AssemblyInfoInputs.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.AssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.csproj.CoreCompileInputs.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorAssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\staticwebassets\MvcMovie.StaticWebAssets.xml
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\scopedcss\bundle\MvcMovie.styles.css
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.TagHelpers.input.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.TagHelpers.output.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorCoreGenerate.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\About.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Blog.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Contact.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Index.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\Templates\Recipe.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cache
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.RazorTargetAssemblyInfo.cs
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.Views.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\ref\MvcMovie.dll
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.pdb
+I:\TENTANG KAMPUS\SEMESTER 3\PEMROGRAMAN 2\Pemrograman 2\FIKS\MvcSpicyo\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache

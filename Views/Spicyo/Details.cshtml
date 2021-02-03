@@ -1,0 +1,46 @@
+@model MvcMovie.Models.Spicyo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<br><br><br><br><br><br><br>
+<h1>Details</h1>
+<div style="background: orange;">
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FoodName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FoodName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Kategory)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Kategory)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Riview)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Riview)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id"><u>Edit</u></a> |
+    <a asp-action="Index" style="color: red;"><u>Back to List</u></a>
+</div>

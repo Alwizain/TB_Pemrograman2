@@ -1,0 +1,52 @@
+@model MvcMovie.Models.Spicyo
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<br><br><br><br><br><br><br>
+<h1>Edit</h1>
+<div class="row" style="background: orange;">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="FoodName" class="control-label"></label>
+                <input asp-for="FoodName" class="form-control" />
+                <span asp-validation-for="FoodName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OrderDate" class="control-label"></label>
+                <input asp-for="OrderDate" class="form-control" />
+                <span asp-validation-for="OrderDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Kategory" class="control-label"></label>
+                <input asp-for="Kategory" class="form-control" />
+                <span asp-validation-for="Kategory" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Riview" class="control-label"></label>
+                <input asp-for="Riview" class="form-control" />
+                <span asp-validation-for="Riview" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" style="color: red;"><u>Back to List</u></a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
